@@ -1,5 +1,6 @@
 #!/bin/sh
 #adding another comment in sandeepkumar-k-patch-1
+#adding another comment in sandeepkumar-k-patch-1#adding another comment in sandeepkumar-k-patch-1
 set -e
 
 bundle exec jekyll build --baseurl "."
